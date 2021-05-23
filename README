@@ -1,0 +1,23 @@
+An iOS Weather App
+• I designed and developed an iOS mobile application for searching weather forecasts of cities around the world and displaying the results. Involved tools and technology: Swift, Xcode, iOS and Amazon Web Services.
+• Displayed the initial view of the app as the weather information of current location. Users can input city names and search for weather conditions, while the choices of cities can be displayed automatically. Each page includes three subviews: weather summary, more information like Pressure and Visibility, weather data for next seven days.
+• Implemented more features of viewing weather details of the city in three tabs: Daily data, Weekly data and Google Photos of this city.
+• Supported other functions such as sharing weather information with Twitter.
+
+![Picture2](https://raw.githubusercontent.com/PeiyuanQi/DarkWeather-iOS/master/readmeimg/Picture2.png)
+
+![Picture1](./readmeimg/Picture1.png)
+
+
+
+![Picture3-5](./readmeimg/Picture3-5.png)
+
+![Picture3](./readmeimg/Picture3.png)
+
+![Picture4](./readmeimg/Picture4.png)
+
+![Picture5](./readmeimg/Picture5.png)
+
+![Picture6](>/readmeimg/Picture6.png)
+
+![Picture7](./readmeimg/Picture7.png)
